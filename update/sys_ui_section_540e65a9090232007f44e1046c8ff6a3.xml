@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="New Section" section_id="540e65a9090232007f44e1046c8ff6a3" sys_domain="global" table="x_snc_createnotes_note" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
-            <sys_id>2c0e65a9090232007f44e1046c8ff6b3</sys_id>
+            <sys_created_on>2022-01-11 02:53:15</sys_created_on>
+            <sys_id>4f8b4c6c2f010110dbb6d4a72799b6dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+            <sys_updated_on>2022-01-11 02:53:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,15 +18,29 @@
             <element>note</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
-            <sys_id>ac0e65a9090232007f44e1046c8ff6b3</sys_id>
+            <sys_created_on>2022-01-11 02:53:15</sys_created_on>
+            <sys_id>0b8b4c6c2f010110dbb6d4a72799b6dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+            <sys_updated_on>2022-01-11 02:53:15</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-11 02:53:15</sys_created_on>
+            <sys_id>8f8b4c6c2f010110dbb6d4a72799b6dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-11 02:53:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>New Section</caption>
@@ -41,7 +54,7 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>540e65a9090232007f44e1046c8ff6a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>New Section</sys_name>
+            <sys_name>x_snc_createnotes_note</sys_name>
             <sys_overrides/>
             <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
             <sys_policy/>
